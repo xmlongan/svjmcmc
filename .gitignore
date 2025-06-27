@@ -1,0 +1,8 @@
+script
+.DS_Store
+.RData
+.Rbuildignore
+.Rhistory
+.Rproj.user
+*.o
+*.so

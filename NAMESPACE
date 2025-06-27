@@ -1,0 +1,4 @@
+useDynLib(svjmcmc, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+importFrom("stats", "rbeta", "rbinom", "rnorm")
+exportPattern("^[[:alpha:]]+")

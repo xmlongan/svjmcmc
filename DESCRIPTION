@@ -1,0 +1,20 @@
+Package: svjmcmc
+Type: Package
+Title: Concise Summary of What the Package Does
+Version: 1.0
+Date: 2025-06-25
+Authors@R: person("Your", "Name", role = c("aut", "cre"), email =
+        "your@email.com")
+Description: More about what it does (maybe more than one line).
+License: GPL (>= 2)
+Imports: 
+    Rcpp (>= 1.0.14),
+    stats,
+    invgamma
+LinkingTo: Rcpp
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+Encoding: UTF-8
+RoxygenNote: 7.3.2
